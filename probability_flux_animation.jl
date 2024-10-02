@@ -14,3 +14,15 @@ record(fig, "smooth_probability.gif", timestamps;
     time[] = t
 end
 
+# Now make a "chaotic" version
+time = Observable(0.0)
+xs = range(0, 10π, length=300)
+ys_1 = @lift(0.5 .* cos.(0.4 .* (xs .- $time)) .* sin.(1.5 .* (xs .- $time)) .* sin.(0.25 .* (xs .- $time)) .+ 0.5)
+fig = lines(xs, ys_1, color = :blue, linewidth = 2,
+    axis = (title = @lift("t = $(round($time, digits = 1))"),))
+framerate = 15
+timestamps = range(0, 3π, step=1/framerate)
+record(fig, "unsmooth_probability.gif", timestamps;
+        framerate = framerate) do t
+    time[] = t
+end
