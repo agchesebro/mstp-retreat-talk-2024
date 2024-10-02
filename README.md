@@ -2,7 +2,7 @@
 
 Probably don't need a whole repository just for this, but it's easier than hosting on the website and convenient to keep citations in one place. Citations are in order of appearence in the presentation.
 
-**Title slide:** Figure taken from Chesebro et al. Challenges and Frontiers in Computational Metabolic Psychiatry. (in press). [Preprint](https://www.cambridge.org/engage/coe/article-details/66b531f95101a2ffa89ec0ff) (yes I know the citations are messy - ask me for a cleaned version or wait a month until it's published)
+**Title slide:** Figure taken from Chesebro et al. Challenges and Frontiers in Computational Metabolic Psychiatry. (in press). [Preprint](https://www.cambridge.org/engage/coe/article-details/66b531f95101a2ffa89ec0ff) (yes I know the citations are messy - ask me for a cleaned version or wait a month until it's published).
 
 **Slide #1:**
 1. Image taken from the tool presented in Gryglewski et al. Spatial analysis and high resolution mapping of the human whole-brain transcriptome for integrative analysis in neuroimaging. _Neuroimage_. 2018 Aug 1;176:259-267. [doi: 10.1016/j.neuroimage.2018.04.068.](https://www.sciencedirect.com/science/article/abs/pii/S1053811918303884?via%3Dihub)
