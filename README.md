@@ -15,7 +15,7 @@ Probably don't need a whole repository just for this, but it's easier than hosti
 
 **Slide #7:** 
 
-**Slide #8:** 
+**Slide #8:** http://www.physics.adelaide.edu.au/theory/staff/leinweber/VisualQCD/ImprovedOperators/index.html
 
 **Slide #9:** 
 1. Images adapted from Byrne et al. A mean field model for movement induced changes in the beta rhythm. _J Comput Neurosci_. 2017 Oct;43(2):143-158. [doi: 10.1007/s10827-017-0655-7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5585324/).
