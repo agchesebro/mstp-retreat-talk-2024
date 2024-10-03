@@ -15,7 +15,7 @@ Probably don't need a whole repository just for this, but it's easier than hosti
 
 **Slides #3-5:** Various figures excerpted from Chesebro et al. Ion gradient-driven bifurcations of a multi-scale neuronal model. _Chaos Solitons Fractals_. 2023 Feb;167:113120. [doi: 10.1016/j.chaos.2023.113120.](https://pubmed.ncbi.nlm.nih.gov/37662556/)
 
-**Slide #7:** 
+**Slide #7:** Animations are in `probability_flux_animation.jl` and `quick_neuron_animations.jl`. For the second one you'll need Neuroblox installed, but you should really get it for all your neuron animation needs anyway so win-win!
 
 **Slide #8:** http://www.physics.adelaide.edu.au/theory/staff/leinweber/VisualQCD/ImprovedOperators/index.html
 
