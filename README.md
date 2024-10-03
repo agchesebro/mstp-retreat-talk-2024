@@ -1,5 +1,7 @@
 # MSTP Retreat Talk 2024
 
+<img src="hate_math_dalle3.webp" alt="Dont' feel like this - download Neuroblox!" width="200"/>
+
 Probably don't need a whole repository just for this, but it's easier than hosting on the website and convenient to keep citations in one place. Citations are in order of appearence in the presentation.
 
 **Title slide:** Figure taken from Chesebro et al. Challenges and Frontiers in Computational Metabolic Psychiatry. (in press). [Preprint](https://www.cambridge.org/engage/coe/article-details/66b531f95101a2ffa89ec0ff) (yes I know the citations are messy - ask me for a cleaned version or wait a month until it's published).
