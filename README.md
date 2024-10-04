@@ -15,7 +15,9 @@ Probably don't need a whole repository just for this, but it's easier than hosti
 
 **Slide #2:** Mostly unpublished data - ask me if you're interested in details. Gene maps illustrated from Gryglewski et al. Spatial analysis and high resolution mapping of the human whole-brain transcriptome for integrative analysis in neuroimaging. _Neuroimage_. 2018 Aug 1;176:259-267. [doi: 10.1016/j.neuroimage.2018.04.068.](https://www.sciencedirect.com/science/article/abs/pii/S1053811918303884?via%3Dihub)
 
-**Slides #3-5:** Various figures excerpted from Chesebro et al. Ion gradient-driven bifurcations of a multi-scale neuronal model. _Chaos Solitons Fractals_. 2023 Feb;167:113120. [doi: 10.1016/j.chaos.2023.113120.](https://pubmed.ncbi.nlm.nih.gov/37662556/)
+**Slide #3:** Image from Baeza-Lehnert et al. Non-Canonical Control of Neuronal Energy Status by the Na+ Pump. _Cell Metab_. 2019 Mar 5;29(3):668-680.e4. [doi: 10.1016/j.cmet.2018.11.005.](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(18)30682-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS155041311830682X%3Fshowall%3Dtrue)
+
+**Slides #4-6:** Various figures excerpted from Chesebro et al. Ion gradient-driven bifurcations of a multi-scale neuronal model. _Chaos Solitons Fractals_. 2023 Feb;167:113120. [doi: 10.1016/j.chaos.2023.113120.](https://pubmed.ncbi.nlm.nih.gov/37662556/)
 
 **Slide #7:** Animations are in `probability_flux_animation.jl` and `quick_neuron_animations.jl`. For the second one you'll need Neuroblox installed, but you should really get it for all your neuron animation needs anyway so win-win!
 
