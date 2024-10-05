@@ -26,7 +26,7 @@ Probably don't need a whole repository just for this, but it's easier than hosti
 1. Animations are in `quick_neuron_animations.jl` in this repo. You'll need Neuroblox installed, but you should really get it for all your neuron animation needs anyway so win-win!
 2. Same as 1.
 3. The spiking population is a simulation from the [Neuroblox tutorials](https://neuroblox.github.io/NeurobloxDocsHost/dev/) (not quite on that site but soon). It's replicating a PING network from Börgers et al. Background gamma rhythmicity and attention in cortical local circuits: a computational study. _Proc Natl Acad Sci U S A._ 2005 May 10;102(19):7002-7. [doi: 10.1073/pnas.0502366102.](https://www.pnas.org/doi/10.1073/pnas.0502366102?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
-4. 
+4. Composites of images from this slide and the next.
 
 **Slide #10:** `probability_flux_animation.jl` http://www.physics.adelaide.edu.au/theory/staff/leinweber/VisualQCD/ImprovedOperators/index.html
 
