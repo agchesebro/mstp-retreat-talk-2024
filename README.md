@@ -28,16 +28,21 @@ Probably don't need a whole repository just for this, but it's easier than hosti
 3. The spiking population is a simulation from the [Neuroblox tutorials](https://neuroblox.github.io/NeurobloxDocsHost/dev/) (not quite on that site but soon). It's replicating a PING network from Börgers et al. Background gamma rhythmicity and attention in cortical local circuits: a computational study. _Proc Natl Acad Sci U S A._ 2005 May 10;102(19):7002-7. [doi: 10.1073/pnas.0502366102.](https://www.pnas.org/doi/10.1073/pnas.0502366102?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 4. Composites of images from this slide and the next.
 
-**Slide #10:** `probability_flux_animation.jl` http://www.physics.adelaide.edu.au/theory/staff/leinweber/VisualQCD/ImprovedOperators/index.html
+**Slide #10:** 
+1. `probability_flux_animation.jl` in this repo.
+2. Landon Lehman [probability "sloshing" animation](https://www.landonlehman.com/post/the-probability-current/).
+3. Derek Leinweber [quantum chromodynamics animation](http://www.physics.adelaide.edu.au/theory/staff/leinweber/VisualQCD/ImprovedOperators/index.html).
 
 **Slide #11:** 
 1. Images adapted from Byrne et al. A mean field model for movement induced changes in the beta rhythm. _J Comput Neurosci_. 2017 Oct;43(2):143-158. [doi: 10.1007/s10827-017-0655-7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5585324/).
-2. Unpublished internal simulation (ask me if you want code/demo).
-3. Video from supplementary material of Pang et al. Geometric constraints on human brain function. _Nature_. 2023 Jun;618(7965):566-574. [doi: 10.1038/s41586-023-06098-1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10266981/).
+2. Adam et al. Ketamine can produce oscillatory dynamics by engaging mechanisms dependent on the kinetics of NMDA receptors. _Proc Natl Acad Sci U S A._ 2024 May 20;121 (22) e2402732121. [doi: 10.1073/pnas.2402732121](https://doi.org/10.1073/pnas.2402732121).
+3. Unpublished internal simulation (ask me if you want code/demo).
+4. Video from supplementary material of Pang et al. Geometric constraints on human brain function. _Nature_. 2023 Jun;618(7965):566-574. [doi: 10.1038/s41586-023-06098-1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10266981/).
 
 **Slide #12:** Unpublished data (and some ongoing experiments). If you're interested in details or want to get involved, get in touch! A couple extra resources (and citations from other papers on the slides):
-* Brincat SL, Miller EK. Frequency-specific hippocampal-prefrontal interactions during associative learning. _Nat Neurosci_. 2015 Apr;18(4):576-81. [doi: 10.1038/nn.3954.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4444366/)
-* Pathak et al. New learning principles emerge from biomimetic computational primitives. [Preprint](https://www.biorxiv.org/content/10.1101/2023.11.06.565902v3). 
+* Antzoulatos and Miller. Increases in functional connectivity between prefrontal cortex and striatum during category learning. _Neuron_. 2014 Jul 2;83(1):216-25. [doi: 10.1016/j.neuron.2014.05.005.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4444366/). 
+* Pathak et al. New learning principles emerge from biomimetic computational primitives. [Preprint](https://www.biorxiv.org/content/10.1101/2023.11.06.565902v3).
+* Additional images from [BioRender.com](https://www.biorender.com).
 
 **Slide #13:** Check out the tutorials at https://www.neuroblox.org.
 
